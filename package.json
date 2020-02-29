@@ -1,7 +1,6 @@
 {
   "name": "react-todo",
   "version": "0.1.0",
-  "homepage": "http://Luiggi370z.github.io/react-todo",
   "private": true,
   "dependencies": {
     "@blueprintjs/core": "^3.15.1",
